@@ -1,0 +1,40 @@
+div.background {
+  background: url("https://i.ibb.co/tBfhxDh/bg.jpg") repeat;
+  border: 2px solid black;
+}
+
+div.transbox1 {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  
+}
+
+div.transbox2 {
+    margin: 10px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    padding: 100px;
+    
+  }
+
+div.transbox1 p {
+  font-weight: bold;
+  color: #000000;
+}
+
+.header img {
+    float: left;
+    width: 170px;
+    height: 120px;
+    background: #555;
+  }
+  
+.header h1 {
+    position: relative;
+    top: 18px;
+    left: 10px;
+  }
+
